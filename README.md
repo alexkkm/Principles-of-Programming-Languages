@@ -2,6 +2,7 @@
 
 + [Content Page](#Contentpage)
     + [Types of Variables](#TypeofVariable)
+    + []()
     + [Language Basic](#languagebasic)
 
 ### Types of Variables
